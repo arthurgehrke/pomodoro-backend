@@ -1,0 +1,14 @@
+{
+  "name": "pomodoro-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "arthurgehrke <arthurgehrke07@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.9.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "ts-node": "^8.10.2"
+  }
+}
